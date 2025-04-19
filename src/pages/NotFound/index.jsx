@@ -47,9 +47,7 @@ const NotFound = () => {
                     className="border-b border-gray-200 pb-2 last:border-b-0"
                   >
                     <Link
-                      to={`/category/${category
-                        .toLowerCase()
-                        .replace(/\s+/g, "-")}`}
+                      to={`/products/${category}`}
                       className="block w-full py-2 px-4 hover:bg-gray-50 rounded-lg transition-colors"
                     >
                       {category}
