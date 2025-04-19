@@ -1,6 +1,6 @@
 # 🛍️ SHOP-CO
 
-![Banner do Projeto](/public/images/Banner-projeto.png)
+![Banner do Projeto](/public/Banner-projeto.png)
 
 **SHOP-CO** é um e-commerce moderno, responsivo e altamente performático, desenvolvido com **React.js**, **Vite** e **Tailwind CSS**. O projeto foi criado com foco na experiência do usuário e em boas práticas de desenvolvimento front-end.
 
