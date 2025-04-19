@@ -83,7 +83,7 @@ SHOP-CO/
 
 ## 🔗 Deploy
 
-Você pode conferir o projeto pronto **[aqui](https://vercel.com/)**.
+Você pode conferir o projeto pronto **([aqui](https://vercel.com/))**.
 
 ---
 
