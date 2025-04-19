@@ -28,8 +28,8 @@ export default function Produtos() {
 
   useEffect(() => {
     document.title = categoria
-      ? `${categoria.charAt(0).toUpperCase() + categoria.slice(1)} - Produtos`
-      : "Todos os Produtos";
+      ? `${categoria.charAt(0).toUpperCase() + categoria.slice(1)} - Products`
+      : "All Products";
   }, [categoria]);
 
   useEffect(() => {
@@ -114,7 +114,7 @@ export default function Produtos() {
               <h2 className="text-2xl font-bold tracking-tight text-gray-900 lg:text-3xl">
                 {categoria
                   ? categoria.charAt(0).toUpperCase() + categoria.slice(1)
-                  : "Todos os Produtos"}
+                  : "All Products"}
               </h2>
               <SortBy setMobileFiltersOpen={setMobileFiltersOpen} />
             </div>
