@@ -1,0 +1,28 @@
+[
+  {
+    "titulo": "COMPANY",
+    "itens": ["About", "Features", "Works", "Career"]
+  },
+  {
+    "titulo": "HELP",
+    "itens": [
+      "Customer Support",
+      "Delivery Details",
+      "Terms & Conditions",
+      "Privacy Policy"
+    ]
+  },
+  {
+    "titulo": "FAQ",
+    "itens": ["Account", "Manage Deliveries", "Orders", "Payments"]
+  },
+  {
+    "titulo": "RESOURCES",
+    "itens": [
+      "Free eBooks",
+      "Development Tutorial",
+      "How to - Blog",
+      "Youtube Playlist"
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "name": "velvety",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "tailwind:init": "node ./node_modules/tailwindcss/lib/cli.js init",
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@floating-ui/dom": "^1.6.13",
+    "@floating-ui/react": "^0.27.7",
+    "@headlessui/react": "^2.2.2",
+    "@heroicons/react": "^2.2.0",
+    "@mui/material": "^7.0.2",
+    "@preline/carousel": "^3.0.0",
+    "@preline/dropdown": "^3.0.1",
+    "@tailwindcss/vite": "^4.1.4",
+    "flyonui": "^2.1.0",
+    "preline": "^3.0.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-hot-toast": "^2.5.2",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^7.5.0",
+    "react-slider": "^2.0.6",
+    "slugify": "^1.6.6",
+    "vanilla-calendar-pro": "^3.0.4"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.21.0",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9.21.0",
+    "eslint-plugin-react-hooks": "^5.1.0",
+    "eslint-plugin-react-refresh": "^0.4.19",
+    "globals": "^15.15.0",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.4",
+    "tailwindcss-animated": "^2.0.0",
+    "vite": "^6.2.0"
+  }
+}

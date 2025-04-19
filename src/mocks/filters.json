@@ -1,0 +1,21 @@
+{
+  "filters": [
+    {
+      "id": "category",
+      "name": "Category",
+      "options": [
+        { "value": "Casual", "label": "Casual", "checked": false },
+        { "value": "Formal", "label": "Formal", "checked": false },
+        { "value": "Gym", "label": "Gym", "checked": true },
+        { "value": "Party", "label": "Party", "checked": false }
+      ]
+    }
+  ],
+  "subCategories": [
+    { "name": "T-shirts", "to": "/products/T-shirts" },
+    { "name": "Shorts", "to": "/products/Shorts" },
+    { "name": "Shirts", "to": "/products/Shirts" },
+    { "name": "Hoodie", "to": "/products/Hoodie" },
+    { "name": "Jeans", "to": "/products/Jeans" }
+  ]
+}

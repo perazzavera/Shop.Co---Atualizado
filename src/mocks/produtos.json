@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "imagem": "/images/casual/casual1.png",
+    "descricao": "Gradient Graphic T-shirt",
+    "apresentacao": "Make a statement with this eye-catching gradient graphic tee. Perfect blend of comfort and style, featuring a modern design that transitions seamlessly from day to night.",
+    "avaliacao": 3.5,
+    "precoAtual": 145,
+    "precoAntigo": null,
+    "valorDesconto": null,
+    "promocao": false,
+    "categoria": "Casual",
+    "tag": "T-shirts",
+    "cores": [
+      { "nome": "Blue", "bgColor": "bg-blue-600" },
+      { "nome": "Green", "bgColor": "bg-green-600" },
+      { "nome": "Orange", "bgColor": "bg-orange-600" }
+    ],
+    "tamanhos": [
+      { "tamanho": "Small" },
+      { "tamanho": "Medium" },
+      { "tamanho": "Large" },
+      { "tamanho": "X-Large" }
+    ]
+  },
+  {
+    "id": 2,
+    "imagem": "/images/casual/casual2.png",
+    "descricao": "Polo with Tipping Details",
+    "apresentacao": "Elevate your casual wardrobe with this sophisticated polo. Features distinctive tipping details and premium cotton fabric for unmatched comfort and elegance.",
+    "avaliacao": 4.5,
+    "precoAtual": 180,
+    "precoAntigo": null,
+    "valorDesconto": null,
+    "promocao": false,
+    "categoria": "Casual",
+    "tag": "Polo",
+    "cores": [
+      { "nome": "Red", "bgColor": "bg-red-600" },
+      { "nome": "Blue", "bgColor": "bg-blue-600" },
+      { "nome": "Purple", "bgColor": "bg-purple-600" }
+    ],
+    "tamanhos": [
+      { "tamanho": "Medium" },
+      { "tamanho": "Large" },
+      { "tamanho": "XX-Large" }
+    ]
+  },
+  {
+    "id": 3,
+    "imagem": "/images/casual/casual3.png",
+    "descricao": "Black Striped T-shirt",
+    "apresentacao": "Classic meets contemporary with this black striped t-shirt. The timeless pattern and comfortable fit make it a versatile addition to any wardrobe.",
+    "avaliacao": 4.5,
+    "precoAtual": 120,
+    "precoAntigo": 150,
+    "valorDesconto": -30,
+    "promocao": true,
+    "categoria": "Casual",
+    "tag": "T-shirts",
+    "cores": [
+      { "nome": "Green", "bgColor": "bg-green-600" },
+      { "nome": "Yellow", "bgColor": "bg-yellow-600" },
+      { "nome": "Orange", "bgColor": "bg-orange-600" }
+    ],
+    "tamanhos": [
+      { "tamanho": "XX-Small" },
+      { "tamanho": "Large" },
+      { "tamanho": "X-Large" }
+    ]
+  },
+  {
+    "id": 4,
+    "imagem": "/images/casual/casual4.png",
+    "descricao": "Skinny Fit Jeans",
+    "apresentacao": "These skinny fit jeans offer the perfect balance of style and comfort. Made with premium denim that hugs your curves while maintaining all-day comfort.",
+    "avaliacao": 3.5,
+    "precoAtual": 240,
+    "precoAntigo": 260,
+    "valorDesconto": -20,
+    "promocao": true,
+    "categoria": "Casual",
+    "tag": "Jeans",
+    "cores": [
+      { "nome": "Light Blue", "bgColor": "bg-blue-300" },
+      { "nome": "Medium Blue", "bgColor": "bg-blue-500" },
+      { "nome": "Dark Blue", "bgColor": "bg-blue-700" }
+    ],
+    "tamanhos": [{ "tamanho": "Medium" }, { "tamanho": "X-Large" }]
+  },
+  {
+    "id": 5,
+    "imagem": "/images/casual/casual5.png",
+    "descricao": "Checkered Shirt",
+    "apresentacao": "A timeless checkered shirt that never goes out of style. Crafted from soft cotton with a comfortable regular fit, perfect for both casual and semi-formal occasions.",
+    "avaliacao": 4.5,
+    "precoAtual": 180,
+    "precoAntigo": null,
+    "valorDesconto": null,
+    "promocao": false,
+    "categoria": "Casual",
+    "tag": "Shirts",
+    "cores": [
+      { "nome": "Blue", "bgColor": "bg-blue-600" },
+      { "nome": "Yellow", "bgColor": "bg-yellow-600" },
+      { "nome": "Green", "bgColor": "bg-green-600" }
+    ],
+    "tamanhos": [
+      { "tamanho": "Small" },
+      { "tamanho": "Large" },
+      { "tamanho": "XX-Large" }
+    ]
+  },
+  {
+    "id": 6,
+    "imagem": "/images/casual/casual6.png",
+    "descricao": "Sleeve Striped T-shirt",
+    "apresentacao": "Add a touch of nautical charm to your wardrobe with this sleeve striped t-shirt. The perfect blend of casual comfort and maritime style.",
+    "avaliacao": 4.5,
+    "precoAtual": 130,
+    "precoAntigo": 160,
+    "valorDesconto": -30,
+    "promocao": true,
+    "categoria": "Casual",
+    "tag": "T-shirts",
+    "cores": [
+      { "nome": "Orange", "bgColor": "bg-orange-600" },
+      { "nome": "Red", "bgColor": "bg-red-600" },
+      { "nome": "Blue", "bgColor": "bg-blue-600" }
+    ],
+    "tamanhos": [{ "tamanho": "X-Large" }, { "tamanho": "XX-Large" }]
+  },
+  {
+    "id": 7,
+    "imagem": "/images/casual/casual7.png",
+    "descricao": "Vertical Striped Shirt",
+    "apresentacao": "Stand tall in this sophisticated vertical striped shirt. The slimming pattern and tailored fit create a polished look that's perfect for any occasion.",
+    "avaliacao": 5.0,
+    "precoAtual": 212,
+    "precoAntigo": 232,
+    "valorDesconto": -20,
+    "promocao": true,
+    "categoria": "Casual",
+    "tag": "Shirts",
+    "cores": [
+      { "nome": "Green", "bgColor": "bg-green-600" },
+      { "nome": "Blue", "bgColor": "bg-blue-600" },
+      { "nome": "Purple", "bgColor": "bg-purple-600" }
+    ],
+    "tamanhos": [
+      { "tamanho": "Small" },
+      { "tamanho": "Medium" },
+      { "tamanho": "Large" }
+    ]
+  },
+  {
+    "id": 8,
+    "imagem": "/images/casual/casual8.png",
+    "descricao": "Courage Graphic T-shirt",
+    "apresentacao": "Express yourself with this bold Courage graphic t-shirt. Features an inspiring design and premium cotton fabric for ultimate comfort and style.",
+    "avaliacao": 4.0,
+    "precoAtual": 145,
+    "precoAntigo": null,
+    "valorDesconto": null,
+    "promocao": false,
+    "categoria": "Casual",
+    "tag": "T-shirts",
+    "cores": [
+      { "nome": "Orange", "bgColor": "bg-orange-600" },
+      { "nome": "Blue", "bgColor": "bg-blue-600" },
+      { "nome": "Yellow", "bgColor": "bg-yellow-600" }
+    ],
+    "tamanhos": [
+      { "tamanho": "XX-Small" },
+      { "tamanho": "Large" },
+      { "tamanho": "X-Large" }
+    ]
+  },
+  {
+    "id": 9,
+    "imagem": "/images/casual/casual9.png",
+    "descricao": "Loose Fit Bermuda Shorts",
+    "apresentacao": "Stay cool and comfortable with these loose fit bermuda shorts. Perfect for casual outings with their relaxed fit and durable construction.",
+    "avaliacao": 3.0,
+    "precoAtual": 80,
+    "precoAntigo": null,
+    "valorDesconto": null,
+    "promocao": false,
+    "categoria": "Casual",
+    "tag": "Jeans",
+    "cores": [
+      { "nome": "Light Blue", "bgColor": "bg-blue-300" },
+      { "nome": "Medium Blue", "bgColor": "bg-blue-500" },
+      { "nome": "Dark Blue", "bgColor": "bg-blue-700" }
+    ],
+    "tamanhos": [
+      { "tamanho": "Small" },
+      { "tamanho": "Medium" },
+      { "tamanho": "Large" }
+    ]
+  },
+  {
+    "id": 10,
+    "imagem": "/images/casual/casual1.png",
+    "descricao": "Gradient Graphic T-shirt",
+    "apresentacao": "Make a statement with this eye-catching gradient graphic tee. Perfect blend of comfort and style, featuring a modern design that transitions seamlessly from day to night.",
+    "avaliacao": 3.5,
+    "precoAtual": 145,
+    "precoAntigo": null,
+    "valorDesconto": null,
+    "promocao": false,
+    "categoria": "New Arrivals",
+    "tag": "T-shirts",
+    "cores": [
+      { "nome": "Blue", "bgColor": "bg-blue-600" },
+      { "nome": "Green", "bgColor": "bg-green-600" },
+      { "nome": "Orange", "bgColor": "bg-orange-600" }
+    ],
+    "tamanhos": [
+      { "tamanho": "Small" },
+      { "tamanho": "Medium" },
+      { "tamanho": "Large" },
+      { "tamanho": "X-Large" }
+    ]
+  },
+  {
+    "id": 11,
+    "imagem": "/images/casual/casual2.png",
+    "descricao": "Polo with Tipping Details",
+    "apresentacao": "Elevate your casual wardrobe with this sophisticated polo. Features distinctive tipping details and premium cotton fabric for unmatched comfort and elegance.",
+    "avaliacao": 4.5,
+    "precoAtual": 180,
+    "precoAntigo": null,
+    "valorDesconto": null,
+    "promocao": false,
+    "categoria": "New Arrivals",
+    "tag": "Polo",
+    "cores": [
+      { "nome": "Red", "bgColor": "bg-red-600" },
+      { "nome": "Blue", "bgColor": "bg-blue-600" },
+      { "nome": "Purple", "bgColor": "bg-purple-600" }
+    ],
+    "tamanhos": [
+      { "tamanho": "Medium" },
+      { "tamanho": "Large" },
+      { "tamanho": "XX-Large" }
+    ]
+  },
+  {
+    "id": 12,
+    "imagem": "/images/casual/casual3.png",
+    "descricao": "Black Striped T-shirt",
+    "apresentacao": "Classic meets contemporary with this black striped t-shirt. The timeless pattern and comfortable fit make it a versatile addition to any wardrobe.",
+    "avaliacao": 4.5,
+    "precoAtual": 120,
+    "precoAntigo": 150,
+    "valorDesconto": -30,
+    "promocao": true,
+    "categoria": "New Arrivals",
+    "tag": "T-shirts",
+    "cores": [
+      { "nome": "Green", "bgColor": "bg-green-600" },
+      { "nome": "Yellow", "bgColor": "bg-yellow-600" },
+      { "nome": "Orange", "bgColor": "bg-orange-600" }
+    ],
+    "tamanhos": [
+      { "tamanho": "XX-Small" },
+      { "tamanho": "Large" },
+      { "tamanho": "X-Large" }
+    ]
+  },
+  {
+    "id": 13,
+    "imagem": "/images/casual/casual4.png",
+    "descricao": "Skinny Fit Jeans",
+    "apresentacao": "These skinny fit jeans offer the perfect balance of style and comfort. Made with premium denim that hugs your curves while maintaining all-day comfort.",
+    "avaliacao": 3.5,
+    "precoAtual": 240,
+    "precoAntigo": 260,
+    "valorDesconto": -20,
+    "promocao": true,
+    "categoria": "New Arrivals",
+    "tag": "Jeans",
+    "cores": [
+      { "nome": "Light Blue", "bgColor": "bg-blue-300" },
+      { "nome": "Medium Blue", "bgColor": "bg-blue-500" },
+      { "nome": "Dark Blue", "bgColor": "bg-blue-700" }
+    ],
+    "tamanhos": [{ "tamanho": "Medium" }, { "tamanho": "X-Large" }]
+  },
+  {
+    "id": 14,
+    "imagem": "/images/casual/casual5.png",
+    "descricao": "Checkered Shirt",
+    "apresentacao": "A timeless checkered shirt that never goes out of style. Crafted from soft cotton with a comfortable regular fit, perfect for both casual and semi-formal occasions.",
+    "avaliacao": 4.5,
+    "precoAtual": 180,
+    "precoAntigo": null,
+    "valorDesconto": null,
+    "promocao": false,
+    "categoria": "New Arrivals",
+    "tag": "Shirts",
+    "cores": [
+      { "nome": "Blue", "bgColor": "bg-blue-600" },
+      { "nome": "Yellow", "bgColor": "bg-yellow-600" },
+      { "nome": "Green", "bgColor": "bg-green-600" }
+    ],
+    "tamanhos": [
+      { "tamanho": "Small" },
+      { "tamanho": "Large" },
+      { "tamanho": "XX-Large" }
+    ]
+  },
+  {
+    "id": 15,
+    "imagem": "/images/casual/casual6.png",
+    "descricao": "Sleeve Striped T-shirt",
+    "apresentacao": "Add a touch of nautical charm to your wardrobe with this sleeve striped t-shirt. The perfect blend of casual comfort and maritime style.",
+    "avaliacao": 4.5,
+    "precoAtual": 130,
+    "precoAntigo": 160,
+    "valorDesconto": -30,
+    "promocao": true,
+    "categoria": "New Arrivals",
+    "tag": "T-shirts",
+    "cores": [
+      { "nome": "Orange", "bgColor": "bg-orange-600" },
+      { "nome": "Red", "bgColor": "bg-red-600" },
+      { "nome": "Blue", "bgColor": "bg-blue-600" }
+    ],
+    "tamanhos": [{ "tamanho": "X-Large" }, { "tamanho": "XX-Large" }]
+  },
+  {
+    "id": 16,
+    "imagem": "/images/casual/casual7.png",
+    "descricao": "Vertical Striped Shirt",
+    "apresentacao": "Stand tall in this sophisticated vertical striped shirt. The slimming pattern and tailored fit create a polished look that's perfect for any occasion.",
+    "avaliacao": 5.0,
+    "precoAtual": 212,
+    "precoAntigo": 232,
+    "valorDesconto": -20,
+    "promocao": true,
+    "categoria": "New Arrivals",
+    "tag": "Shirts",
+    "cores": [
+      { "nome": "Green", "bgColor": "bg-green-600" },
+      { "nome": "Blue", "bgColor": "bg-blue-600" },
+      { "nome": "Purple", "bgColor": "bg-purple-600" }
+    ],
+    "tamanhos": [
+      { "tamanho": "Small" },
+      { "tamanho": "Medium" },
+      { "tamanho": "Large" }
+    ]
+  },
+  {
+    "id": 17,
+    "imagem": "/images/casual/casual8.png",
+    "descricao": "Courage Graphic T-shirt",
+    "apresentacao": "Express yourself with this bold Courage graphic t-shirt. Features an inspiring design and premium cotton fabric for ultimate comfort and style.",
+    "avaliacao": 4.0,
+    "precoAtual": 145,
+    "precoAntigo": null,
+    "valorDesconto": null,
+    "promocao": false,
+    "categoria": "New Arrivals",
+    "tag": "T-shirts",
+    "cores": [
+      { "nome": "Orange", "bgColor": "bg-orange-600" },
+      { "nome": "Blue", "bgColor": "bg-blue-600" },
+      { "nome": "Yellow", "bgColor": "bg-yellow-600" }
+    ],
+    "tamanhos": [
+      { "tamanho": "XX-Small" },
+      { "tamanho": "Large" },
+      { "tamanho": "X-Large" }
+    ]
+  },
+  {
+    "id": 18,
+    "imagem": "/images/casual/casual9.png",
+    "descricao": "Loose Fit Bermuda Shorts",
+    "apresentacao": "Stay cool and comfortable with these loose fit bermuda shorts. Perfect for casual outings with their relaxed fit and durable construction.",
+    "avaliacao": 3.0,
+    "precoAtual": 80,
+    "precoAntigo": null,
+    "valorDesconto": null,
+    "promocao": false,
+    "categoria": "New Arrivals",
+    "tag": "Jeans",
+    "cores": [
+      { "nome": "Light Blue", "bgColor": "bg-blue-300" },
+      { "nome": "Medium Blue", "bgColor": "bg-blue-500" },
+      { "nome": "Dark Blue", "bgColor": "bg-blue-700" }
+    ],
+    "tamanhos": [
+      { "tamanho": "Small" },
+      { "tamanho": "Medium" },
+      { "tamanho": "Large" }
+    ]
+  },
+  {
+    "id": 19,
+    "imagem": "/images/casual/casual1.png",
+    "descricao": "Gradient Graphic T-shirt",
+    "apresentacao": "Make a statement with this eye-catching gradient graphic tee. Perfect blend of comfort and style, featuring a modern design that transitions seamlessly from day to night.",
+    "avaliacao": 3.5,
+    "precoAtual": 145,
+    "precoAntigo": null,
+    "valorDesconto": null,
+    "promocao": false,
+    "categoria": "Top Sellings",
+    "tag": "T-shirts",
+    "cores": [
+      { "nome": "Blue", "bgColor": "bg-blue-600" },
+      { "nome": "Green", "bgColor": "bg-green-600" },
+      { "nome": "Orange", "bgColor": "bg-orange-600" }
+    ],
+    "tamanhos": [
+      { "tamanho": "Small" },
+      { "tamanho": "Medium" },
+      { "tamanho": "Large" },
+      { "tamanho": "X-Large" }
+    ]
+  },
+  {
+    "id": 20,
+    "imagem": "/images/casual/casual2.png",
+    "descricao": "Polo with Tipping Details",
+    "apresentacao": "Elevate your casual wardrobe with this sophisticated polo. Features distinctive tipping details and premium cotton fabric for unmatched comfort and elegance.",
+    "avaliacao": 4.5,
+    "precoAtual": 180,
+    "precoAntigo": null,
+    "valorDesconto": null,
+    "promocao": false,
+    "categoria": "Top Sellings",
+    "tag": "Polo",
+    "cores": [
+      { "nome": "Red", "bgColor": "bg-red-600" },
+      { "nome": "Blue", "bgColor": "bg-blue-600" },
+      { "nome": "Purple", "bgColor": "bg-purple-600" }
+    ],
+    "tamanhos": [
+      { "tamanho": "Medium" },
+      { "tamanho": "Large" },
+      { "tamanho": "XX-Large" }
+    ]
+  },
+  {
+    "id": 21,
+    "imagem": "/images/casual/casual3.png",
+    "descricao": "Black Striped T-shirt",
+    "apresentacao": "Classic meets contemporary with this black striped t-shirt. The timeless pattern and comfortable fit make it a versatile addition to any wardrobe.",
+    "avaliacao": 4.5,
+    "precoAtual": 120,
+    "precoAntigo": 150,
+    "valorDesconto": -30,
+    "promocao": true,
+    "categoria": "Top Sellings",
+    "tag": "T-shirts",
+    "cores": [
+      { "nome": "Green", "bgColor": "bg-green-600" },
+      { "nome": "Yellow", "bgColor": "bg-yellow-600" },
+      { "nome": "Orange", "bgColor": "bg-orange-600" }
+    ],
+    "tamanhos": [
+      { "tamanho": "XX-Small" },
+      { "tamanho": "Large" },
+      { "tamanho": "X-Large" }
+    ]
+  },
+  {
+    "id": 22,
+    "imagem": "/images/casual/casual4.png",
+    "descricao": "Skinny Fit Jeans",
+    "apresentacao": "These skinny fit jeans offer the perfect balance of style and comfort. Made with premium denim that hugs your curves while maintaining all-day comfort.",
+    "avaliacao": 3.5,
+    "precoAtual": 240,
+    "precoAntigo": 260,
+    "valorDesconto": -20,
+    "promocao": true,
+    "categoria": "Top Sellings",
+    "tag": "Jeans",
+    "cores": [
+      { "nome": "Light Blue", "bgColor": "bg-blue-300" },
+      { "nome": "Medium Blue", "bgColor": "bg-blue-500" },
+      { "nome": "Dark Blue", "bgColor": "bg-blue-700" }
+    ],
+    "tamanhos": [{ "tamanho": "Medium" }, { "tamanho": "X-Large" }]
+  },
+  {
+    "id": 23,
+    "imagem": "/images/casual/casual5.png",
+    "descricao": "Checkered Shirt",
+    "apresentacao": "A timeless checkered shirt that never goes out of style. Crafted from soft cotton with a comfortable regular fit, perfect for both casual and semi-formal occasions.",
+    "avaliacao": 4.5,
+    "precoAtual": 180,
+    "precoAntigo": null,
+    "valorDesconto": null,
+    "promocao": false,
+    "categoria": "Top Sellings",
+    "tag": "Shirts",
+    "cores": [
+      { "nome": "Blue", "bgColor": "bg-blue-600" },
+      { "nome": "Yellow", "bgColor": "bg-yellow-600" },
+      { "nome": "Green", "bgColor": "bg-green-600" }
+    ],
+    "tamanhos": [
+      { "tamanho": "Small" },
+      { "tamanho": "Large" },
+      { "tamanho": "XX-Large" }
+    ]
+  },
+  {
+    "id": 24,
+    "imagem": "/images/casual/casual6.png",
+    "descricao": "Sleeve Striped T-shirt",
+    "apresentacao": "Add a touch of nautical charm to your wardrobe with this sleeve striped t-shirt. The perfect blend of casual comfort and maritime style.",
+    "avaliacao": 4.5,
+    "precoAtual": 130,
+    "precoAntigo": 160,
+    "valorDesconto": -30,
+    "promocao": true,
+    "categoria": "Top Sellings",
+    "tag": "T-shirts",
+    "cores": [
+      { "nome": "Orange", "bgColor": "bg-orange-600" },
+      { "nome": "Red", "bgColor": "bg-red-600" },
+      { "nome": "Blue", "bgColor": "bg-blue-600" }
+    ],
+    "tamanhos": [{ "tamanho": "X-Large" }, { "tamanho": "XX-Large" }]
+  },
+  {
+    "id": 25,
+    "imagem": "/images/casual/casual7.png",
+    "descricao": "Vertical Striped Shirt",
+    "apresentacao": "Stand tall in this sophisticated vertical striped shirt. The slimming pattern and tailored fit create a polished look that's perfect for any occasion.",
+    "avaliacao": 5.0,
+    "precoAtual": 212,
+    "precoAntigo": 232,
+    "valorDesconto": -20,
+    "promocao": true,
+    "categoria": "Top Sellings",
+    "tag": "Shirts",
+    "cores": [
+      { "nome": "Green", "bgColor": "bg-green-600" },
+      { "nome": "Blue", "bgColor": "bg-blue-600" },
+      { "nome": "Purple", "bgColor": "bg-purple-600" }
+    ],
+    "tamanhos": [
+      { "tamanho": "Small" },
+      { "tamanho": "Medium" },
+      { "tamanho": "Large" }
+    ]
+  },
+  {
+    "id": 26,
+    "imagem": "/images/casual/casual8.png",
+    "descricao": "Courage Graphic T-shirt",
+    "apresentacao": "Express yourself with this bold Courage graphic t-shirt. Features an inspiring design and premium cotton fabric for ultimate comfort and style.",
+    "avaliacao": 4.0,
+    "precoAtual": 145,
+    "precoAntigo": null,
+    "valorDesconto": null,
+    "promocao": false,
+    "categoria": "Top Sellings",
+    "tag": "T-shirts",
+    "cores": [
+      { "nome": "Orange", "bgColor": "bg-orange-600" },
+      { "nome": "Blue", "bgColor": "bg-blue-600" },
+      { "nome": "Yellow", "bgColor": "bg-yellow-600" }
+    ],
+    "tamanhos": [
+      { "tamanho": "XX-Small" },
+      { "tamanho": "Large" },
+      { "tamanho": "X-Large" }
+    ]
+  },
+  {
+    "id": 27,
+    "imagem": "/images/casual/casual9.png",
+    "descricao": "Loose Fit Bermuda Shorts",
+    "apresentacao": "Stay cool and comfortable with these loose fit bermuda shorts. Perfect for casual outings with their relaxed fit and durable construction.",
+    "avaliacao": 3.0,
+    "precoAtual": 80,
+    "precoAntigo": null,
+    "valorDesconto": null,
+    "promocao": false,
+    "categoria": "Top Sellings",
+    "tag": "Jeans",
+    "cores": [
+      { "nome": "Light Blue", "bgColor": "bg-blue-300" },
+      { "nome": "Medium Blue", "bgColor": "bg-blue-500" },
+      { "nome": "Dark Blue", "bgColor": "bg-blue-700" }
+    ],
+    "tamanhos": [
+      { "tamanho": "Small" },
+      { "tamanho": "Medium" },
+      { "tamanho": "Large" }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "src": "/images/visa.svg",
+    "alt": "logo visa"
+  },
+  {
+    "id": 2,
+    "src": "/images/mastercard.svg",
+    "alt": "logo mastercard"
+  },
+  {
+    "id": 3,
+    "src": "/images/paypal.svg",
+    "alt": "logo paypal"
+  },
+  {
+    "id": 4,
+    "src": "/images/applepay.svg",
+    "alt": "logo apple pay"
+  },
+  {
+    "id": 5,
+    "src": "/images/googlepay.svg",
+    "alt": "logo google pay"
+  }
+]

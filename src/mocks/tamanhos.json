@@ -1,0 +1,11 @@
+[
+  { "id": 1, "tamanho": "XX-Small" },
+  { "id": 2, "tamanho": "X-Small" },
+  { "id": 3, "tamanho": "Small" },
+  { "id": 4, "tamanho": "Medium" },
+  { "id": 5, "tamanho": "Large" },
+  { "id": 6, "tamanho": "X-Large" },
+  { "id": 7, "tamanho": "XX-Large" },
+  { "id": 8, "tamanho": "3X-Large" },
+  { "id": 9, "tamanho": "4X-Large" }
+]

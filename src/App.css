@@ -1,0 +1,7 @@
+body {
+  font-family: "Satoshi", sans-serif; /* Fonte padrão */
+}
+
+.titulo {
+  font-family: var(--integral);
+}
